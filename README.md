@@ -13,8 +13,8 @@ This  program is build on python.This python project can get your public ip addr
 ### Installation ###
 
 <ul>
-<li>Python<li>
-<li>Python-request<li>
+<li>Python</li>
+<li>Python-request</li>
 <li>figlet</li>
 </ul>
 
