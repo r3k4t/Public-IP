@@ -29,5 +29,5 @@ sudo python publicip.py
 
 ### Screenshots ###
 
-<p> ![Screenshot at 2020-08-16 07-18-30](https://user-images.githubusercontent.com/69615463/90324818-23acca80-df91-11ea-9f2d-f9bf80670a4e.png) </p>
+![Screenshot at 2020-08-16 07-18-30](https://user-images.githubusercontent.com/69615463/90324818-23acca80-df91-11ea-9f2d-f9bf80670a4e.png) 
 
