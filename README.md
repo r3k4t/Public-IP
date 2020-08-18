@@ -21,7 +21,7 @@ This  program is build on python.This python project can get your public ip addr
 ### Setup ###
 
 <ul>
-  <li>pip install -r requirements.txt</li>
+  <li>sudo pip install -r requirements.txt</li>
   </ul>
 
 ### Getting started ###
