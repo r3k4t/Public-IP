@@ -27,6 +27,12 @@ cd Public-IP
 sudo python publicip.py
 <br>
 
+### Requirements ###
+
+<ul>
+  <li>pip install -r requirements.txt</li>
+  </ul>
+
 ### Screenshots ###
 
 ![Screenshot at 2020-08-16 07-18-30](https://user-images.githubusercontent.com/69615463/90324818-23acca80-df91-11ea-9f2d-f9bf80670a4e.png) 
