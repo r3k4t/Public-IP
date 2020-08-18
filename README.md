@@ -18,6 +18,12 @@ This  program is build on python.This python project can get your public ip addr
 <li>figlet</li>
 </ul>
 
+### Setup ###
+
+<ul>
+  <li>pip install -r requirements.txt</li>
+  </ul>
+
 ### Getting started ###
 
 git clone https://github.com/r3k4t/Public-IP.git
@@ -26,12 +32,6 @@ cd Public-IP
 <br>
 sudo python publicip.py
 <br>
-
-### Requirements ###
-
-<ul>
-  <li>pip install -r requirements.txt</li>
-  </ul>
 
 ### Screenshots ###
 
